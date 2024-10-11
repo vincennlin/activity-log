@@ -30471,6 +30471,7 @@ async function fetchAndFilterEvents() {
         // } else {
         //     break;
         // }
+        //
     }
 
     filteredEvents = filteredEvents.slice(0, eventLimit);
