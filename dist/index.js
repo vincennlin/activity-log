@@ -30351,7 +30351,7 @@ module.exports = {
 const github = __nccwpck_require__(2335);
 const core = __nccwpck_require__(9619);
 const eventDescriptions = __nccwpck_require__(2619);
-const { username, token, eventLimit, style, ignoreEvents } = __nccwpck_require__(9530);
+const { username, token, eventLimit, style, targetRepos, ignoreEvents } = __nccwpck_require__(9530);
 
 // Create an authenticated Octokit client
 const octokit = github.getOctokit(token);
@@ -30423,7 +30423,7 @@ async function fetchAllEvents() {
 
             // Check for API rate limit or pagination issues
             if (events.length === 0) {
-                core.warning('⚠️ No more events available.');
+                core.warning('⚠️ T5: No more events available.');
                 break; // No more events to fetch
             }
 
@@ -30464,15 +30464,14 @@ async function fetchAndFilterEvents() {
                 return event;
             })
             .slice(0, eventLimit);
-
-            break;
+        break;
         // if (filteredEvents.length < eventLimit) {
         //     const additionalEvents = await fetchAllEvents();
+        //     if (additionalEvents.length === 0) break;
         //     allEvents = additionalEvents.concat(allEvents);
         // } else {
         //     break;
         // }
-        ///
     }
 
     filteredEvents = filteredEvents.slice(0, eventLimit);
