@@ -18,16 +18,16 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. 🔀 Merged a PR in a private repo
-2. 🔀 Merged [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-3. 🗑️ Deleted a branch `depfu/batch_all/npm/2024-10-07` in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-4. 🔎 Reviewed [PR #17](https://github.com/Wiresense/wiresense.js/pull/17) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-5. 🔀 Merged [PR #33](https://github.com/Wiresense/frontend/pull/33) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-6. 🔀 Merged [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-7. 🔎 Reviewed [PR #16](https://github.com/Wiresense/wiresense.js/pull/16) in [Wiresense/wiresense.js](https://github.com/Wiresense/wiresense.js)
-8. 🔀 Merged [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
-9. 📝 Committed to [Wiresense/frontend](https://github.com/Wiresense/frontend/commit/c3033c6dd92c6ba79069aec4be284256be551447)
-10. 🔎 Reviewed [PR #31](https://github.com/Wiresense/frontend/pull/31) in [Wiresense/frontend](https://github.com/Wiresense/frontend)
+1. 📝 Committed to [vincennlin/activity-log](https://github.com/vincennlin/activity-log/commit/f281909e9d4fb94f6ab00e6fcd8a18cb7375980a)
+2. 📝 Committed to [vincennlin/activity-log](https://github.com/vincennlin/activity-log/commit/13c97384021cb1001f63e9e94c854d7f1b681cba)
+3. 📝 Committed to [vincennlin/activity-log](https://github.com/vincennlin/activity-log/commit/3c0c20ce496ba9643d71ce9e43022d6c3d7b454e)
+4. 📝 Committed to [vincennlin/activity-log](https://github.com/vincennlin/activity-log/commit/0b907af6179c9d39040abe126c4b6bf18681a70c)
+5. 📝 Committed to [vincennlin/activity-log](https://github.com/vincennlin/activity-log/commit/ba1c40644422a3ba5380fa95ea90d9ebf1bf168a)
+6. 📝 Committed to [vincennlin/activity-log](https://github.com/vincennlin/activity-log/commit/6306cbb5c4d885dd78b15cdb07e7b4582bf5992f)
+7. 📝 Committed to [vincennlin/activity-log](https://github.com/vincennlin/activity-log/commit/c69ec2f92c1b59703e2a4cc4151e414b92a532a3)
+8. 📝 Committed to [vincennlin/activity-log](https://github.com/vincennlin/activity-log/commit/198d72ceccf6a985685a26655b87af98a5226fb5)
+9. 📝 Committed to [vincennlin/activity-log](https://github.com/vincennlin/activity-log/commit/e7f787e7a867e802ae0bf9048c4e2edf4b5c56ad)
+10. 📝 Committed to [vincennlin/activity-log](https://github.com/vincennlin/activity-log/commit/b9ffecb226279e613deeee535bfad396d520e863)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
